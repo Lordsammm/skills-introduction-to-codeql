@@ -1,4 +1,4 @@
-name: CodeQL
+name: CodeQL for GHAS POC
 
 on:
   push:
